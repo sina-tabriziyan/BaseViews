@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "com.sina.bases"
+    namespace = "com.sina.bases.library"
     compileSdk = 35
 
     defaultConfig {
