@@ -65,4 +65,6 @@ dependencies {
     api(libs.bundles.koin)
     api(libs.bundles.navigation)
     api(libs.bundles.fragment)
+    implementation("androidx.compose.runtime:runtime:1.8.1")
+
 }
